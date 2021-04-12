@@ -1,5 +1,4 @@
-## Hi 👋, I'm Sergio
-### Languages and Tools:
+### Hi 👋, I'm Sergio
 
 <p align="left">
   <a href="https://rubyonrails.org/" target="_blank">
