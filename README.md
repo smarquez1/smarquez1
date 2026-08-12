@@ -8,7 +8,7 @@ Currently helping build KaiPod Learning's microschool management platform. Most 
 
 ## Technologies
 
-Ruby on Rails · Ruby · JavaScript · Hotwire · React · PostgreSQL · Redis · Sidekiq · Stripe · AWS · CI/CD
+Ruby on Rails · Ruby · JavaScript · TypeScript · Hotwire · React · PostgreSQL · Redis · Sidekiq · Stripe · AWS · CI/CD
 
 ## Connect
 
