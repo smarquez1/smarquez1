@@ -1,14 +1,14 @@
 # Hi, I'm Sergio 👋
 
-Senior Product Engineer specializing in Ruby on Rails, SaaS, APIs, and full-stack web platforms.
+Code-first Senior Software / Product Engineer with deep Ruby on Rails and JavaScript experience across SaaS, APIs, React, and full-stack web platforms.
 
-I build and modernize web products, working across product discovery, architecture, full-stack implementation, and production ownership.
+I build and modernize web products, working across product discovery, systems design, full-stack implementation, and production ownership. Recent work includes Ruby on Rails, Hotwire Native, Action Cable, Stripe billing, a production LLM-powered feature, and performance-focused modernization.
 
 Currently helping build KaiPod Learning's microschool management platform. Most of my professional engineering activity happens in private repositories.
 
 ## Technologies
 
-Ruby on Rails · Ruby · JavaScript · TypeScript · Hotwire · React · PostgreSQL · Redis · Sidekiq · Stripe · AWS · CI/CD
+Ruby on Rails · Ruby · JavaScript · React · Next.js · Hotwire · Hotwire Native · Action Cable · PostgreSQL · Redis · Sidekiq · Stripe · AWS · RSpec · CI/CD
 
 ## Connect
 
