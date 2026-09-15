@@ -14,4 +14,3 @@ Ruby on Rails · Ruby · JavaScript · React · Next.js · Hotwire · Hotwire Na
 
 - [Personal website](https://smarquez1.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/marquezsd)
-- [Email](mailto:marquez.sergio.d@gmail.com)
